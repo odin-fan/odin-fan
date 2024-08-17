@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @odin-fan
 - 👀 I’m interested in sports, code and open source softwares
-- 🌱 I’m currently learning full stack..
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning anything and everything that interests me..
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I created a backend project for an open source frontend project, Enatega using chatgpt and llama to help society with open source solution!
